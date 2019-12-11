@@ -51,3 +51,11 @@ button {
     height: 30px;
     margin: 10px 0;
 }
+
+#destinationOl {
+    text-align: left;
+}
+
+#destinationOl li{
+    padding-left: 200px;
+}
